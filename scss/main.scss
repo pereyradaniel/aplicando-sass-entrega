@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+// VARIABLES
+@import './utilidades/_colores';
+
+//IMPORTACIONES
+
+@import './header-footer/_header';
+@import './header-footer/_footer';
+@import './secciones/_index';  

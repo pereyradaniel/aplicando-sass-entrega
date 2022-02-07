@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.bg-color {
+  background-color: #EA698B; }
+
+.navbar-light .navbar-brand {
+  color: white; }
+
+.navbar-light .navbar-nav .nav-link {
+  color: white; }
+
+footer {
+  margin-bottom: 0px;
+  background-color: #822FAF;
+  text-align: center;
+  height: 6vh;
+  color: white; }
+  footer h5 {
+    color: white;
+    padding: 5px; }
+
+main {
+  background-color: #47126B;
+  height: 94vh; }
+  main h1 {
+    color: white;
+    padding: 10px; }
+  main div {
+    color: grey;
+    padding: 20px; }
+    main div .mainParrafo-1 {
+      color: white; }
+    main div .mainParrafo-2 {
+      color: #EA698B; }

@@ -1,0 +1,19 @@
+main{
+    background-color: $violeta-8;
+    height: 94vh;
+    h1 {
+        color:white;
+        padding: 10px;
+    }
+    div {
+        color:grey;
+        padding: 20px;
+        .mainParrafo-1{
+            color:white;
+        }
+        .mainParrafo-2{
+            color:$rosa-1;
+        }
+
+    }
+}
